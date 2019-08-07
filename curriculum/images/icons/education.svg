@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="50" height="50" viewBox="0 0 50 50">
+  <defs>
+    <clipPath id="clip-path">
+      <rect id="Rectángulo_3" data-name="Rectángulo 3" width="50" height="50" transform="translate(292 143)" fill="#fff" stroke="#707070" stroke-width="1"/>
+    </clipPath>
+  </defs>
+  <g id="Enmascarar_grupo_3" data-name="Enmascarar grupo 3" transform="translate(-292 -143)" clip-path="url(#clip-path)">
+    <g id="_003-college-graduation" data-name="003-college-graduation" transform="translate(292 143)">
+      <g id="Layer_5_59_">
+        <g id="Grupo_1" data-name="Grupo 1">
+          <path id="Trazado_2" data-name="Trazado 2" d="M28.209,34.663a6.507,6.507,0,0,1-6.418,0L7.262,25.752s-1.311-.8-1.311,1.017v8.9c0,4.687,8.529,9.74,19.049,9.74s19.049-5.053,19.049-9.74v-9.4c0-1.462-.932-.747-.932-.747Z" fill="#fff"/>
+          <path id="Trazado_3" data-name="Trazado 3" d="M49.163,18.664a1.344,1.344,0,0,0,0-2.49L27.03,5.106a4.269,4.269,0,0,0-4.06,0L.837,16.174a1.344,1.344,0,0,0,0,2.49L22.97,32.238a4.269,4.269,0,0,0,4.06,0" fill="#fff"/>
+          <path id="Trazado_4" data-name="Trazado 4" d="M48.247,38.784V23.793s.01-.71-.411-.476a12.247,12.247,0,0,0-1.458.9,1.258,1.258,0,0,0-.261.95V38.784a.4.4,0,0,1-.245.332,2.59,2.59,0,1,0,2.612-.005A.386.386,0,0,1,48.247,38.784Z" fill="#fff"/>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>

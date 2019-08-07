@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="50" height="50" viewBox="0 0 50 50">
+  <defs>
+    <clipPath id="clip-path">
+      <rect id="Rectángulo_4" data-name="Rectángulo 4" width="50" height="50" transform="translate(373 143)" fill="#fff" stroke="#707070" stroke-width="1"/>
+    </clipPath>
+  </defs>
+  <g id="Enmascarar_grupo_4" data-name="Enmascarar grupo 4" transform="translate(-373 -143)" clip-path="url(#clip-path)">
+    <g id="_004-portfolio" data-name="004-portfolio" transform="translate(373 146.027)">
+      <path id="Trazado_5" data-name="Trazado 5" d="M20.605,23.438h8.789v2.93H20.605Zm0,0" fill="#fff"/>
+      <path id="Trazado_6" data-name="Trazado 6" d="M40.564,26.367h-8.24v1.465A1.464,1.464,0,0,1,30.859,29.3H19.141a1.464,1.464,0,0,1-1.465-1.465V26.367H9.436a4.39,4.39,0,0,1-4.169-3L0,7.56V39.551a4.4,4.4,0,0,0,4.395,4.395H45.605A4.4,4.4,0,0,0,50,39.551V7.561l-5.267,15.8a4.389,4.389,0,0,1-4.168,3Zm0,0" fill="#fff"/>
+      <path id="Trazado_7" data-name="Trazado 7" d="M30.859,0H19.141a4.4,4.4,0,0,0-4.395,4.395V5.859H2.52L8.045,22.436a1.465,1.465,0,0,0,1.39,1h8.24V21.973a1.464,1.464,0,0,1,1.465-1.465H30.859a1.464,1.464,0,0,1,1.465,1.465v1.465h8.24a1.465,1.465,0,0,0,1.39-1L47.48,5.859H35.254V4.395A4.4,4.4,0,0,0,30.859,0ZM17.676,5.859V4.395A1.466,1.466,0,0,1,19.141,2.93H30.859a1.466,1.466,0,0,1,1.465,1.465V5.859Zm0,0" fill="#fff"/>
+    </g>
+  </g>
+</svg>

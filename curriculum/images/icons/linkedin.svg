@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="50" height="50" viewBox="0 0 50 50">
+  <defs>
+    <clipPath id="clip-path">
+      <rect id="Rectángulo_6" data-name="Rectángulo 6" width="50" height="50" transform="translate(535 143)" fill="#fff" stroke="#707070" stroke-width="1"/>
+    </clipPath>
+  </defs>
+  <g id="Enmascarar_grupo_6" data-name="Enmascarar grupo 6" transform="translate(-535 -143)" clip-path="url(#clip-path)">
+    <g id="_006-linkedin-big-logo" data-name="006-linkedin-big-logo" transform="translate(535 143)">
+      <path id="Trazado_11" data-name="Trazado 11" d="M6.664.035A6.664,6.664,0,1,0,13.326,6.7,6.675,6.675,0,0,0,6.664.035Z" fill="#fff"/>
+      <path id="Trazado_12" data-name="Trazado 12" d="M11.666,16.041h-10A.862.862,0,0,0,.8,16.9V49.1a.862.862,0,0,0,.862.862h10a.862.862,0,0,0,.862-.862V16.9A.862.862,0,0,0,11.666,16.041Z" fill="#fff"/>
+      <path id="Trazado_13" data-name="Trazado 13" d="M37.241,15.662A13.138,13.138,0,0,0,28.4,18.595V16.9a.862.862,0,0,0-.862-.862h-9.6a.862.862,0,0,0-.862.862V49.1a.862.862,0,0,0,.862.862h9.994A.862.862,0,0,0,28.8,49.1V33.172c0-4.571.841-7.4,5.037-7.4,4.134,0,4.443,3.043,4.443,7.677V49.1a.862.862,0,0,0,.862.862h10A.862.862,0,0,0,50,49.1V31.44C50,24.094,48.55,15.662,37.241,15.662Z" fill="#fff"/>
+    </g>
+  </g>
+</svg>
